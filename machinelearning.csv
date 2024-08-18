@@ -1,6 +1,11 @@
 MCQ,Choices,Correct
-What is artificial intelligence (AI) in its broadest sense?,a: Intelligence exhibited by humans | b: Intelligence exhibited by machines | c: Intelligence exhibited by animals | d: Intelligence exhibited by robots,b
-What is the primary goal of machines with AI?,a: To minimize their chances of achieving defined goals | b: To maximize their chances of achieving defined goals | c: To ignore their environment | d: To interact with humans only,b
-Which of the following is an example of a high-profile application of AI?,a: Calculator | b: Google Search | c: Microsoft Office | d: Facebook,b
-Why are many AI applications not perceived as AI?,a: Because they are not useful | b: Because they are not common | c: Because once something becomes useful enough and common enough it's not labeled AI anymore | d: Because they are not interactive,c
-What is an example of a generative and creative tool that uses AI?,a: Microsoft Paint | b: ChatGPT | c: Adobe Photoshop | d: Google Docs,b
+Machine learning is a field of study in artificial intelligence concerned with the development and study of which type of algorithms?,a: Statistical algorithms | b: Deterministic algorithms | c: Heuristic algorithms | d: Dynamic algorithms,a
+Which type of neural networks have been able to surpass many previous approaches in performance?,a: Artificial neural networks | b: Biological neural networks | c: Convolutional neural networks | d: Recurrent neural networks,a
+What is the term used to describe the application of machine learning to business problems?,a: Predictive modeling | b: Predictive analytics | c: Business intelligence | d: Data mining,b
+Which field of study focuses on exploratory data analysis through unsupervised learning?,a: Machine learning | b: Data mining | c: Computational statistics | d: Mathematical optimization,b
+What provides the mathematical foundations of machine learning?,a: Mathematical optimization methods | b: Computational statistics | c: Data mining | d: Artificial intelligence,a
+What is the term used to describe the framework for describing machine learning from a theoretical viewpoint?,a: Probably approximately correct (PAC) learning | b: Machine learning framework | c: Artificial intelligence model | d: Neural network architecture,a
+Which of the following is NOT an application of machine learning?,a: Natural language processing | b: Computer vision | c: Agriculture | d: History,d
+What is the term used to describe the process of learning from data and generalizing to unseen data?,a: Supervised learning | b: Unsupervised learning | c: Learning from data | d: Generalization,c
+Machine learning finds application in which of the following fields?,a: Medicine and agriculture | b: Computer vision and natural language processing | c: Speech recognition and email filtering | d: All of the above,d
+What is the term used to describe the type of learning where the machine learns without explicit instructions?,a: Supervised learning | b: Unsupervised learning | c: Semi-supervised learning | d: Learning from experience,b
