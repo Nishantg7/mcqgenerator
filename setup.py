@@ -8,3 +8,4 @@ setup(
     install_requires=["groq","langchain","streamlit","python-dotenv","PyPDF2"],
     packages=find_packages()
 )
+#

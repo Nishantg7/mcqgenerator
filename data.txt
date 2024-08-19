@@ -4,4 +4,4 @@ ML finds application in many fields, including natural language processing, comp
 
 The mathematical foundations of ML are provided by mathematical optimization (mathematical programming) methods. Data mining is a related (parallel) field of study, focusing on exploratory data analysis (EDA) through unsupervised learning.[6][7]
 
-From a theoretical viewpoint, probably approximately correct (PAC) learning provides a framework for describing machine learning.
+From a theoretical viewpoint, probably approximately correct (PAC) learning provides a framework for describing Machine Learning.
