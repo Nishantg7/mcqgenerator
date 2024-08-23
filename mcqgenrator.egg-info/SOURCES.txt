@@ -9,4 +9,5 @@ src/__init__.py
 src/mcqgenerator/MCQGenerator.py
 src/mcqgenerator/__init__.py
 src/mcqgenerator/logger.py
+src/mcqgenerator/mcqgenerator.py
 src/mcqgenerator/utils.py

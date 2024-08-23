@@ -1,11 +1,11 @@
 MCQ,Choices,Correct
-Machine learning is a field of study in artificial intelligence concerned with the development and study of which type of algorithms?,a: Statistical algorithms | b: Deterministic algorithms | c: Heuristic algorithms | d: Dynamic algorithms,a
-Which type of neural networks have been able to surpass many previous approaches in performance?,a: Artificial neural networks | b: Biological neural networks | c: Convolutional neural networks | d: Recurrent neural networks,a
-What is the term used to describe the application of machine learning to business problems?,a: Predictive modeling | b: Predictive analytics | c: Business intelligence | d: Data mining,b
-Which field of study focuses on exploratory data analysis through unsupervised learning?,a: Machine learning | b: Data mining | c: Computational statistics | d: Mathematical optimization,b
-What provides the mathematical foundations of machine learning?,a: Mathematical optimization methods | b: Computational statistics | c: Data mining | d: Artificial intelligence,a
-What is the term used to describe the framework for describing machine learning from a theoretical viewpoint?,a: Probably approximately correct (PAC) learning | b: Machine learning framework | c: Artificial intelligence model | d: Neural network architecture,a
-Which of the following is NOT an application of machine learning?,a: Natural language processing | b: Computer vision | c: Agriculture | d: History,d
-What is the term used to describe the process of learning from data and generalizing to unseen data?,a: Supervised learning | b: Unsupervised learning | c: Learning from data | d: Generalization,c
-Machine learning finds application in which of the following fields?,a: Medicine and agriculture | b: Computer vision and natural language processing | c: Speech recognition and email filtering | d: All of the above,d
-What is the term used to describe the type of learning where the machine learns without explicit instructions?,a: Supervised learning | b: Unsupervised learning | c: Semi-supervised learning | d: Learning from experience,b
+What is the primary concern of the field of Machine Learning?,a: Developing algorithms that can perform tasks with explicit instructions | b: Developing statistical algorithms that can learn from data and generalize to unseen data | c: Developing artificial neural networks that can surpass human performance | d: Developing predictive models that require human intervention,b
+What has been able to surpass many previous approaches in performance in Machine Learning?,a: Artificial neural networks | b: Decision Trees | c: Support Vector Machines | d: Random Forests,a
+What is the application of Machine Learning in business problems known as?,a: Predictive Analytics | b: Descriptive Analytics | c: Prescriptive Analytics | d: Diagnostic Analytics,a
+What is the field of study that focuses on exploratory data analysis through unsupervised learning?,a: Data Mining | b: Machine Learning | c: Artificial Intelligence | d: Deep Learning,a
+What provides the mathematical foundations of Machine Learning?,a: Mathematical Optimization | b: Computational Statistics | c: Probability Theory | d: Linear Algebra,a
+What is the framework that provides a theoretical viewpoint for describing Machine Learning?,a: PAC Learning | b: Probably Correct Learning | c: Approximately Correct Learning | d: Likely Correct Learning,a
+What is the type of learning that is used in data mining?,a: Supervised Learning | b: Unsupervised Learning | c: Reinforcement Learning | d: Deep Learning,b
+What is the field of study that is concerned with the development and study of statistical algorithms that can learn from data?,a: Artificial Intelligence | b: Machine Learning | c: Deep Learning | d: Natural Language Processing,b
+What is the application of Machine Learning in the field of healthcare?,a: Medicine | b: Agriculture | c: Computer Vision | d: Speech Recognition,a
+What is the importance of computational statistics in Machine Learning?,a: It is not important at all | b: It is a minor source of methods | c: It is an important source of methods | d: It is the only source of methods,c

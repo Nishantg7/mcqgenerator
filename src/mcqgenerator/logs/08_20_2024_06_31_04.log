@@ -1,0 +1,2 @@
+[2024-08-20 06:31:21,114] 1026 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-08-20 06:31:22,581] 1026 httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
