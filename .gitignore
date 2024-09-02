@@ -1,5 +1,6 @@
 .env
 
-mcqgenrator.egg-info
+mcqgenrator.egg-info/
 
-test.py
+
+experiment/
